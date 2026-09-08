@@ -1,0 +1,616 @@
+Transaction ID,Date,Category,Item,Price Per Unit,Quantity,Total Spent,Payment Method
+TXN_1557,08-04-2025,Milk Products,Milk_Cheese_200g,,6,660,Credit Card
+TXN_1251,31-05-2025,Furniture,Furn_Chair,2500,2,5000,Credit Card
+TXN_1150,22-07-2025,Computers,,800,4,3200,Cash
+TXN_1350,21-06-2025,Milk Products,Milk_Butter_500g,250,6,1500,Cash
+TXN_1406,09-08-2025,Butchers,Meat_Chicken_1kg,220,6,1320,Debit Card
+TXN_1494,28-07-2025,Patisserie,Pat_Cake_Slice,90,2,180,Debit Card
+TXN_1547,17-02-2025,Butchers,,190,4,760,Mobile Payment
+TXN_1498,07-05-2025,Electric Accessories,Elec_Earphones,350,5,1750,Cash
+TXN_1143,24-03-2025,Furniture,Furn_Lamp,700,3,2100,Credit Card
+TXN_1092,24-08-2025,Beverages,Bev_Tea_100g,90,6,540,Debit Card
+TXN_1540,18-03-2025,Electric Accessories,Elec_Cable_USB,150,1,150,Credit Card
+TXN_1574,25-08-2025,Computers,Comp_Webcam,1200,5,6000,Mobile Payment
+TXN_1014,28-08-2025,Patisserie,Pat_Donut,30,6,180,Cash
+TXN_1543,26-01-2025,Butchers,Meat_Fish_1kg,380,,380,Mobile Payment
+TXN_1086,17-07-2025,Patisserie,Pat_Donut,30,1,45,Debit Card
+TXN_1053,24-02-2025,Computers,Comp_Keyboard,800,4,3200,Mobile Payment
+TXN_1490,16-07-2025,Electric Accessories,Elec_Charger,400,,2000,Cash
+TXN_1207,15-05-2025,Electric Accessories,,90,1,90,Mobile Payment
+TXN_1554,22-05-2025,Food,Food_Rice_1kg,70,3,210,Cash
+TXN_1544,04-06-2025,Beverages,Bev_Tea_100g,90,3,270,Mobile Payment
+TXN_1397,29-05-2025,Milk Products,Milk_Cheese_200g,,5,550,Credit Card
+TXN_1372,06-02-2025,Milk Products,,110,1,110,Mobile Payment
+TXN_1224,01-08-2025,Patisserie,Pat_Cake_Slice,90,1,,Mobile Payment
+TXN_1101,24-01-2025,Furniture,Furn_Cushion,350,3,1050,Credit Card
+TXN_1049,05-03-2025,Butchers,Meat_Mutton_1kg,,1,650,Credit Card
+TXN_1528,28-01-2025,Electric Accessories,Elec_Earphones,350,2,700,Cash
+TXN_1166,18-07-2025,Furniture,Furn_Cushion,350,2,700,Mobile Payment
+TXN_1247,19-08-2025,Butchers,,75,5,375,Debit Card
+TXN_1114,21-01-2025,Butchers,Meat_Chicken_1kg,,5,1100,Credit Card
+TXN_1176,16-01-2025,Food,Food_Oats_1kg,120,1,120,Credit Card
+TXN_1056,15-01-2025,Patisserie,Pat_Cake_Slice,90,2,180,Cash
+TXN_1055,19-04-2025,Electric Accessories,Elec_Powerbank,,3,2700,Mobile Payment
+TXN_1400,16-06-2025,Furniture,Furn_Small_Table,3200,3,9600,Credit Card
+TXN_1398,19-08-2025,Furniture,Furn_Cushion,350,6,2100,Debit Card
+TXN_1323,29-03-2025,Milk Products,Milk_Butter_500g,,2,500,Mobile Payment
+TXN_1121,05-05-2025,patisserie,Pat_Donut,30,4,120,Cash
+TXN_1201,04-05-2025,Electric Accessories,Elec_Batteries_4pk,90,5,,Debit Card
+TXN_1091,14-05-2025,Electric Accessories,Elec_Earphones,350,1,525,Credit Card
+TXN_1364,27-06-2025,Milk Products,Milk_Butter_500g,250,4,1500,Mobile Payment
+TXN_1252,18-07-2025,Milk Products,Milk_Ghee_500ml,350,3,1050,Credit Card
+TXN_1075,03-01-2025,Electric Accessories,,350,5,1750,Cash
+TXN_1164,08-02-2025,Beverages,,180,2,360,Debit Card
+TXN_1548,24-07-2025,Furniture,Furn_Cushion,350,3,1050,Credit Card
+TXN_1181,28-02-2025,Beverages,Bev_Juice_500ml,45,1,45,Cash
+TXN_1155,17-02-2025,Computers,Comp_Webcam,1200,,7200,Credit Card
+TXN_1268,28-03-2025,milk products,Milk_Ghee_500ml,350,4,1400,Mobile Payment
+TXN_1309,20-01-2025,Butchers,Meat_Eggs_Dozen,75,3,225,Cash
+TXN_1324,20-01-2025,Food,Food_Cereal_500g,150,2,300,Debit Card
+TXN_1484,17-06-2025,Computers,,1200,2,2400,Debit Card
+TXN_1163,06-05-2025,Beverages,Bev_Tea_100g,90,4,360,Cash
+TXN_1147,13-03-2025,Patisserie,Pat_Muffin,35,3,105,Debit Card
+TXN_1042,01-07-2025,Beverages,Bev_Cola_1L,60,,60,Cash
+TXN_1148,22-01-2025,Computers,Comp_HDMI_Cable,300,2,600,Credit Card
+TXN_1073,27-03-2025,Beverages,Bev_Water_1L,20,1,20,Credit Card
+TXN_1408,10-03-2025,Electric Accessories,Elec_Powerbank,900,,900,Mobile Payment
+TXN_1186,19-06-2025,Computers,Comp_Keyboard,800,3,2400,Mobile Payment
+TXN_1229,29-05-2025,Electric Accessories,Elec_Batteries_4pk,90,1,90,Debit Card
+TXN_1076,10-01-2025,Food,Food_Oats_1kg,120,5,600,Debit Card
+TXN_1582,01-08-2025,Food,Food_Rice_1kg,70,1,105,Credit Card
+TXN_1404,17-04-2025,Milk Products,Milk_Cheese_200g,110,4,440,Mobile Payment
+TXN_1394,29-08-2025,Milk Products,Milk_Ghee_500ml,350,3,1050,Debit Card
+TXN_1113,15-03-2025,Beverages,Bev_Tea_100g,90,6,,Credit Card
+TXN_1240,15-04-2025,Patisserie,Pat_Cookie_Pack,,6,330,Cash
+TXN_1391,31-05-2025,Furniture,Furn_Chair,2500,6,15000,Credit Card
+TXN_1010,28-05-2025,Furniture,Furn_Cushion,350,3,1050,Credit Card
+TXN_1486,13-07-2025,Milk Products,Milk_Ghee_500ml,350,1,350,Cash
+TXN_1131,03-03-2025,Furniture,Furn_Cushion,350,2,700,Credit Card
+TXN_1157,28-02-2025,Milk Products,Milk_Yogurt_400g,,3,180,Debit Card
+TXN_1016,25-08-2025,Butchers,Meat_Bacon_250g,190,3,570,Credit Card
+TXN_1339,21-01-2025,Patisserie,Pat_Croissant,40,,160,Debit Card
+TXN_1319,21-03-2025,Food,Food_Oats_1kg,,3,360,Mobile Payment
+TXN_1174,25-07-2025,Furniture,  Furn_Lamp  ,700,6,4200,Credit Card
+TXN_1584,25-01-2025,Butchers,Meat_Fish_1kg,380,4,1520,Mobile Payment
+TXN_1124,14-06-2025,Beverages,Bev_Juice_500ml,,1,45,Mobile Payment
+TXN_1221,18-03-2025,Butchers,Meat_Fish_1kg,380,5,1900,Mobile Payment
+TXN_1532,08-08-2025,Food,,70,6,420,Cash
+TXN_1012,08-04-2025,Milk Products,Milk_Ghee_500ml,350,1,350,Debit Card
+TXN_1387,06-06-2025,Furniture,,2500,2,5000,Cash
+TXN_1278,16-07-2025,Electric Accessories,Elec_Earphones,350,5,1750,Cash
+TXN_1354,07-07-2025,Butchers,Meat_Fish_1kg,380,2,760,Cash
+TXN_1282,11-07-2025,Beverages,Bev_Juice_500ml,45,1,67.5,Credit Card
+TXN_1508,21-08-2025,Butchers,Meat_Mutton_1kg,650,,1950,Cash
+TXN_1257,09-07-2025,Beverages,Bev_Coffee_200g,180,2,360,Mobile Payment
+TXN_1193,01-07-2025,Furniture,Furn_Shelf,1800,2,,Credit Card
+TXN_1173,25-06-2025,Electric Accessories,Elec_Powerbank,900,1,900,Credit Card
+TXN_1464,08-03-2025,Patisserie,Pat_Croissant,40,,40,Mobile Payment
+TXN_1286,19-06-2025,Patisserie,Pat_Donut,30,4,120,Mobile Payment
+TXN_1489,15-07-2025,Milk Products,,60,6,360,Cash
+TXN_1178,19-03-2025,Electric Accessories,Elec_Powerbank,900,6,5400,Mobile Payment
+TXN_1317,23-06-2025,Food,Food_Wheat_1kg,55,5,,Mobile Payment
+TXN_1593,30-01-2025,Milk Products,Milk_Yogurt_400g,60,4,240,Debit Card
+TXN_1137,03-06-2025,Patisserie,Pat_Cookie_Pack,55,6,330,Cash
+TXN_1018,17-01-2025,Electric Accessories,Elec_Cable_USB,150,3,450,Credit Card
+TXN_1041,31-05-2025,Butchers,Meat_Mutton_1kg,650,1,650,Credit Card
+TXN_1345,19-03-2025,Patisserie,,90,2,180,Cash
+TXN_1277,30-01-2025,Furniture,Furn_Chair,2500,3,7500,Debit Card
+TXN_1558,07-05-2025,Patisserie,,55,3,165,Credit Card
+TXN_1589,17-02-2025,Electric Accessories,Elec_Cable_USB,150,6,900,Credit Card
+TXN_1090,09-04-2025,Computers,Comp_USB_Drive_32GB,450,,450,Credit Card
+TXN_1502,16-04-2025,Beverages,Bev_Coffee_200g,180,5,900,Mobile Payment
+TXN_1087,23-06-2025,Computers,Comp_USB_Drive_32GB,450,4,1800,Debit Card
+TXN_1316,15-06-2025,Beverages,,180,6,1080,Debit Card
+TXN_1152,02-05-2025,Furniture,  Furn_Lamp  ,700,3,2100,Debit Card
+TXN_1112,05-05-2025,Patisserie,Pat_Donut,30,5,,Credit Card
+TXN_1170,14-02-2025,Milk Products,Milk_Cheese_200g,,2,220,Cash
+TXN_1238,07-01-2025,Milk Products,Milk_Ghee_500ml,350,4,1400,Debit Card
+TXN_1313,22-01-2025,Butchers,,650,6,3900,Credit Card
+TXN_1035,07-07-2025,Food,Food_Rice_1kg,70,1,70,Mobile Payment
+TXN_1168,06-06-2025,Furniture,Furn_Cushion,350,1,350,Cash
+TXN_1290,15-01-2025,Electric Accessories,Elec_Cable_USB,150,,750,Cash
+TXN_1314,15-05-2025,Electric Accessories,Elec_Batteries_4pk,90,4,540,Credit Card
+TXN_1479,25-02-2025,Beverages,,60,6,360,Cash
+TXN_1458,07-05-2025,Computers,Comp_Webcam,1200,5,6000,Credit Card
+TXN_1388,04-07-2025,Electric Accessories,Elec_Cable_USB,150,6,900,Mobile Payment
+TXN_1249,13-06-2025,Milk Products,,80,6,480,Cash
+TXN_1206,09-05-2025,Beverages,Bev_Water_1L,20,2,40,Debit Card
+TXN_1564,02-06-2025,Electric Accessories,Elec_Earphones,350,6,,Credit Card
+TXN_1209,09-06-2025,Patisserie,Pat_Muffin,35,3,105,Mobile Payment
+TXN_1444,21-01-2025,Patisserie,Pat_Cake_Slice,90,6,540,Debit Card
+TXN_1258,25-04-2025,Beverages,Bev_Tea_100g,90,4,360,Debit Card
+TXN_1204,23-03-2025,Electric Accessories,Elec_Charger,400,1,400,Mobile Payment
+TXN_1136,01-06-2025,Milk Products,,60,1,60,Credit Card
+TXN_1245,26-06-2025,Patisserie,Pat_Donut,30,,30,Debit Card
+TXN_1099,24-02-2025,Electric Accessories,Elec_Batteries_4pk,90,6,540,Mobile Payment
+TXN_1399,31-07-2025,Furniture,,3200,1,3200,Cash
+TXN_1025,17-01-2025,electric accessories,Elec_Earphones,350,5,1750,Mobile Payment
+TXN_1588,20-04-2025,Butchers,Meat_Mutton_1kg,650,,3250,Mobile Payment
+TXN_1192,05-05-2025,Electric Accessories,,90,6,540,Cash
+TXN_1180,08-07-2025,Beverages,Bev_Water_1L,20,4,80,Debit Card
+TXN_1551,20-03-2025,Food,Food_Rice_1kg,70,1,105,Mobile Payment
+TXN_1429,02-05-2025,Beverages,Bev_Juice_500ml,45,5,225,Debit Card
+TXN_1381,19-08-2025,Electric Accessories,Elec_Batteries_4pk,90,2,180,Mobile Payment
+TXN_1194,15-04-2025,Beverages,Bev_Cola_1L,60,,300,Cash
+TXN_1430,28-02-2025,Furniture,Furn_Lamp,700,5,3500,Cash
+TXN_1473,01-08-2025,Food,Food_Pasta_500g,65,1,65,Credit Card
+TXN_1492,09-07-2025,beverages,Bev_Coffee_200g,180,2,360,Cash
+TXN_1327,17-07-2025,Milk Products,Milk_Butter_500g,250,6,1500,Credit Card
+TXN_1213,30-06-2025,Food,  Food_Wheat_1kg  ,55,6,330,Cash
+TXN_1293,30-06-2025,Butchers,Meat_Bacon_250g,190,5,950,Credit Card
+TXN_1379,06-06-2025,Electric Accessories,Elec_Batteries_4pk,90,2,180,Debit Card
+TXN_1445,03-05-2025,Patisserie,Pat_Muffin,35,,210,Credit Card
+TXN_1529,08-06-2025,Patisserie,Pat_Croissant,40,2,80,Debit Card
+TXN_1100,22-01-2025,Milk Products,Milk_Cheese_200g,110,6,660,Debit Card
+TXN_1446,27-08-2025,Computers,Comp_Webcam,,3,3600,Debit Card
+TXN_1535,20-07-2025,Electric Accessories,Elec_Earphones,350,6,2100,Debit Card
+TXN_1483,11-08-2025,Butchers,Meat_Bacon_250g,190,4,1140,Mobile Payment
+TXN_1021,24-05-2025,Patisserie,Pat_Croissant,40,6,240,Debit Card
+TXN_1414,30-05-2025,Patisserie,,40,2,80,Debit Card
+TXN_1208,11-08-2025,Food,,120,4,480,Credit Card
+TXN_1357,03-07-2025,Food,,150,1,150,Mobile Payment
+TXN_1133,05-06-2025,Butchers,Meat_Eggs_Dozen,75,2,150,Cash
+TXN_1272,23-05-2025,Butchers,Meat_Eggs_Dozen,75,2,150,Cash
+TXN_1294,12-04-2025,Butchers,  Meat_Fish_1kg  ,380,1,380,Cash
+TXN_1482,06-07-2025,Food,Food_Cereal_500g,150,6,1350,Mobile Payment
+TXN_1368,04-06-2025,Patisserie,Pat_Cookie_Pack,,4,220,Mobile Payment
+TXN_1336,20-08-2025,Patisserie,Pat_Donut,30,4,120,Credit Card
+TXN_1467,10-02-2025,Electric Accessories,Elec_Powerbank,900,3,2700,Mobile Payment
+TXN_1395,12-06-2025,Patisserie,Pat_Muffin,,2,70,Debit Card
+TXN_1218,22-08-2025,Patisserie,Pat_Croissant,40,,160,Credit Card
+TXN_1266,23-07-2025,Electric Accessories,Elec_Earphones,350,1,350,Cash
+TXN_1534,13-02-2025,Beverages,Bev_Cola_1L,60,6,360,Cash
+TXN_1409,16-03-2025,Food,Food_Wheat_1kg,55,1,55,Mobile Payment
+TXN_1246,07-08-2025,Electric Accessories,,90,2,180,Debit Card
+TXN_1538,25-05-2025,Patisserie,Pat_Donut,,5,150,Cash
+TXN_1485,16-05-2025,Computers,Comp_Webcam,1200,4,4800,Credit Card
+TXN_1237,08-04-2025,Patisserie,,35,5,175,Debit Card
+TXN_1474,25-03-2025,Food,,120,2,240,Mobile Payment
+TXN_1563,25-07-2025,Furniture,  Furn_Cushion  ,350,4,1400,Debit Card
+TXN_1392,09-05-2025,Food,Food_Cereal_500g,150,4,600,Cash
+TXN_1325,17-07-2025,Food,Food_Wheat_1kg,55,5,275,Cash
+TXN_1539,23-02-2025,Butchers,Meat_Chicken_1kg,220,1,220,Credit Card
+TXN_1285,13-07-2025,Food,Food_Oats_1kg,120,2,240,Cash
+TXN_1338,14-01-2025,Beverages,Bev_Juice_500ml,45,4,180,Mobile Payment
+TXN_1298,01-08-2025,Furniture,,350,4,1400,Debit Card
+TXN_1001,27-01-2025,Food,Food_Cereal_500g,150,6,900,Cash
+TXN_1426,28-03-2025,Patisserie,Pat_Cookie_Pack,55,5,275,Mobile Payment
+TXN_1183,16-02-2025,Electric Accessories,Elec_Batteries_4pk,90,3,270,Mobile Payment
+TXN_1262,02-07-2025,Food,,55,4,220,Mobile Payment
+TXN_1481,09-01-2025,beverages,Bev_Tea_100g,90,4,360,Debit Card
+TXN_1142,11-03-2025,Computers,Comp_HDMI_Cable,300,6,1800,Mobile Payment
+TXN_1347,18-05-2025,Computers,Comp_Keyboard,800,5,4000,Cash
+TXN_1234,06-02-2025,Electric Accessories,Elec_Powerbank,900,1,900,Credit Card
+TXN_1118,03-05-2025,Furniture,Furn_Small_Table,3200,4,12800,Cash
+TXN_1519,14-06-2025,Computers,Comp_Keyboard,800,6,4800,Mobile Payment
+TXN_1159,16-03-2025,Beverages,Bev_Coffee_200g,180,5,900,Credit Card
+TXN_1524,06-04-2025,Computers,Comp_USB_Drive_32GB,450,4,1800,Cash
+TXN_1144,14-08-2025,Food,Food_Rice_1kg,70,,210,Mobile Payment
+TXN_1074,09-07-2025,Patisserie,Pat_Muffin,35,2,70,Mobile Payment
+TXN_1518,21-05-2025,Patisserie,Pat_Croissant,40,,160,Debit Card
+TXN_1250,02-02-2025,Butchers,,650,2,1300,Credit Card
+TXN_1514,23-08-2025,Computers,Comp_Mouse,500,3,2250,Credit Card
+TXN_1594,13-06-2025,Computers,Comp_Keyboard,800,5,4000,Debit Card
+TXN_1531,04-03-2025,Electric Accessories,Elec_Powerbank,900,5,,Credit Card
+TXN_1022,13-04-2025,Electric Accessories,Elec_Earphones,350,,1750,Debit Card
+TXN_1276,05-08-2025,Computers,Comp_Mouse,500,2,1500,Cash
+TXN_1297,25-03-2025,Electric Accessories,Elec_Cable_USB,150,1,150,Credit Card
+TXN_1072,24-01-2025,Patisserie,Pat_Muffin,35,1,35,Mobile Payment
+TXN_1441,03-05-2025,Computers,Comp_Keyboard,800,3,2400,Debit Card
+TXN_1017,30-07-2025,Beverages,Bev_Coffee_200g,180,2,360,Cash
+TXN_1102,07-02-2025,Milk Products,,350,2,700,Cash
+TXN_1231,13-08-2025,Food,Food_Cereal_500g,150,5,750,Debit Card
+TXN_1488,28-04-2025,Milk Products,Milk_Ghee_500ml,,2,700,Debit Card
+TXN_1217,11-08-2025,Food,Food_Rice_1kg,70,5,350,Mobile Payment
+TXN_1380,01-02-2025,Computers,Comp_Keyboard,800,2,1600,Credit Card
+TXN_1423,05-02-2025,Beverages,Bev_Water_1L,20,1,20,Debit Card
+TXN_1243,31-05-2025,Computers,Comp_Webcam,1200,4,4800,Credit Card
+TXN_1598,30-01-2025,Patisserie,Pat_Croissant,40,3,180,Credit Card
+TXN_1382,30-03-2025,Butchers,Meat_Chicken_1kg,220,6,1320,Cash
+TXN_1513,30-04-2025,Computers,Comp_USB_Drive_32GB,450,4,1800,Cash
+TXN_1416,21-04-2025,Beverages,Bev_Cola_1L,60,1,60,Credit Card
+TXN_1019,22-03-2025,Furniture,Furn_Small_Table,3200,6,19200,Credit Card
+TXN_1069,30-01-2025,Food,Food_Cereal_500g,150,3,450,Cash
+TXN_1125,13-01-2025,Electric Accessories,Elec_Powerbank,900,2,2700,Debit Card
+TXN_1549,09-02-2025,Food,Food_Rice_1kg,70,3,210,Mobile Payment
+TXN_1106,26-02-2025,Food,Food_Wheat_1kg,55,4,220,Credit Card
+TXN_1124,14-06-2025,Beverages,Bev_Juice_500ml,,1,45,Mobile Payment
+TXN_1082,25-07-2025,Butchers,Meat_Mutton_1kg,650,,2600,Credit Card
+TXN_1341,15-03-2025,Food,Food_Cereal_500g,150,1,150,Mobile Payment
+TXN_1107,13-01-2025,Computers,Comp_HDMI_Cable,300,4,1200,Credit Card
+TXN_1493,25-02-2025,Milk Products,Milk_Ghee_500ml,,5,1750,Cash
+TXN_1239,17-01-2025,Milk Products,Milk_Ghee_500ml,350,6,2100,Mobile Payment
+TXN_1182,11-01-2025,Patisserie,Pat_Donut,30,5,150,Credit Card
+TXN_1308,29-04-2025,Beverages,,90,3,270,Mobile Payment
+TXN_1511,18-07-2025,furniture,Furn_Chair,2500,3,7500,Debit Card
+TXN_1044,19-05-2025,Computers,Comp_Keyboard,800,2,1600,Credit Card
+TXN_1477,27-04-2025,Computers,Comp_USB_Drive_32GB,450,4,1800,Cash
+TXN_1520,05-02-2025,Butchers,Meat_Fish_1kg,,2,760,Mobile Payment
+TXN_1038,26-06-2025,Computers,Comp_Webcam,1200,6,7200,Credit Card
+TXN_1098,17-06-2025,Furniture,Furn_Lamp,700,5,3500,Debit Card
+TXN_1093,19-08-2025,Food,Food_Pasta_500g,65,6,390,Debit Card
+TXN_1571,22-06-2025,Beverages,Bev_Tea_100g,,4,360,Mobile Payment
+TXN_1236,18-05-2025,Beverages,Bev_Cola_1L,60,3,180,Cash
+TXN_1062,03-07-2025,Milk Products,Milk_Paneer_200g,80,,480,Debit Card
+TXN_1003,24-05-2025,Furniture,Furn_Shelf,1800,1,1800,Credit Card
+TXN_1220,23-06-2025,Electric Accessories,,900,3,2700,Credit Card
+TXN_1343,07-03-2025,Food,Food_Rice_1kg,70,1,70,Credit Card
+TXN_1011,28-02-2025,Beverages,Bev_Water_1L,20,6,120,Debit Card
+TXN_1510,22-02-2025,Furniture,Furn_Shelf,1800,6,10800,Mobile Payment
+TXN_1130,05-03-2025,Beverages,Bev_Water_1L,20,1,20,Credit Card
+TXN_1189,11-08-2025,beverages,Bev_Cola_1L,60,6,360,Mobile Payment
+TXN_1058,15-01-2025,Computers,Comp_HDMI_Cable,300,2,600,Cash
+TXN_1491,02-06-2025,Beverages,  Bev_Tea_100g  ,90,1,90,Cash
+TXN_1185,27-01-2025,Butchers,Meat_Chicken_1kg,220,6,,Credit Card
+TXN_1504,05-08-2025,Food,,70,4,280,Debit Card
+TXN_1162,29-08-2025,Beverages,,180,3,540,Mobile Payment
+TXN_1228,25-01-2025,Food,Food_Cereal_500g,150,6,,Cash
+TXN_1459,19-02-2025,Electric Accessories,Elec_Powerbank,900,3,,Cash
+TXN_1342,01-05-2025,Food,Food_Cereal_500g,150,6,900,Mobile Payment
+TXN_1065,09-03-2025,Milk Products,Milk_Paneer_200g,80,5,400,Credit Card
+TXN_1442,01-02-2025,Patisserie,Pat_Donut,30,3,90,Mobile Payment
+TXN_1094,14-04-2025,Electric Accessories,Elec_Charger,400,3,1200,Debit Card
+TXN_1302,31-03-2025,Milk Products,Milk_Yogurt_400g,60,,180,Credit Card
+TXN_1443,17-07-2025,Electric Accessories,Elec_Cable_USB,150,3,,Credit Card
+TXN_1263,05-06-2025,Food,,70,3,210,Credit Card
+TXN_1363,23-04-2025,Electric Accessories,Elec_Cable_USB,150,6,,Mobile Payment
+TXN_1362,01-02-2025,Butchers,  Meat_Mutton_1kg  ,650,3,1950,Debit Card
+TXN_1333,05-02-2025,Milk Products,,60,5,300,Debit Card
+TXN_1471,24-06-2025,Milk Products,Milk_Paneer_200g,80,2,160,Cash
+TXN_1305,25-04-2025,Furniture,Furn_Small_Table,3200,5,16000,Debit Card
+TXN_1432,27-05-2025,Patisserie,Pat_Croissant,,1,40,Cash
+TXN_1318,27-03-2025,Furniture,Furn_Shelf,1800,2,3600,Cash
+TXN_1509,31-01-2025,Milk Products,Milk_Yogurt_400g,60,6,360,Mobile Payment
+TXN_1177,31-07-2025,Furniture,  Furn_Shelf  ,1800,6,10800,Debit Card
+TXN_1370,22-04-2025,Butchers,Meat_Fish_1kg,380,5,1900,Debit Card
+TXN_1596,14-02-2025,Electric Accessories,Elec_Powerbank,900,5,4500,Debit Card
+TXN_1015,06-07-2025,Milk Products,Milk_Cheese_200g,,5,550,Credit Card
+TXN_1537,11-03-2025,Furniture,Furn_Small_Table,3200,4,12800,Cash
+TXN_1516,22-05-2025,Beverages,Bev_Juice_500ml,45,3,,Mobile Payment
+TXN_1064,28-04-2025,Beverages,,90,1,90,Cash
+TXN_1452,15-03-2025,Patisserie,Pat_Cake_Slice,90,3,270,Cash
+TXN_1085,07-01-2025,milk products,Milk_Ghee_500ml,350,2,700,Credit Card
+TXN_1132,25-02-2025,Food,Food_Pasta_500g,65,5,325,Mobile Payment
+TXN_1264,12-06-2025,patisserie,Pat_Donut,30,5,150,Debit Card
+TXN_1267,10-08-2025,Furniture,  Furn_Chair  ,2500,6,15000,Credit Card
+TXN_1177,31-07-2025,Furniture,  Furn_Shelf  ,1800,6,10800,Debit Card
+TXN_1254,24-07-2025,Computers,,1200,3,3600,Credit Card
+TXN_1083,12-08-2025,Food,Food_Wheat_1kg,55,4,220,Cash
+TXN_1005,28-06-2025,Beverages,Bev_Cola_1L,60,2,180,Mobile Payment
+TXN_1405,06-02-2025,Butchers,Meat_Mutton_1kg,650,5,3250,Debit Card
+TXN_1334,22-05-2025,Computers,Comp_Mouse,500,3,1500,Cash
+TXN_1420,24-06-2025,Patisserie,Pat_Donut,,5,150,Cash
+TXN_1561,07-06-2025,Computers,Comp_Keyboard,800,5,4000,Credit Card
+TXN_1292,08-05-2025,Food,Food_Pasta_500g,,1,65,Mobile Payment
+TXN_1028,17-03-2025,Butchers,Meat_Mutton_1kg,,1,650,Mobile Payment
+TXN_1232,07-03-2025,Patisserie,Pat_Donut,30,2,60,Mobile Payment
+TXN_1059,18-01-2025,beverages,Bev_Tea_100g,90,5,450,Credit Card
+TXN_1222,20-02-2025,Electric Accessories,Elec_Powerbank,900,3,2700,Mobile Payment
+TXN_1378,31-01-2025,Butchers,Meat_Bacon_250g,190,5,950,Debit Card
+TXN_1125,13-01-2025,Electric Accessories,Elec_Powerbank,900,2,2700,Debit Card
+TXN_1029,13-08-2025,Beverages,Bev_Cola_1L,60,6,360,Debit Card
+TXN_1344,05-06-2025,Furniture,,2500,6,15000,Mobile Payment
+TXN_1570,23-02-2025,Electric Accessories,Elec_Powerbank,900,6,5400,Mobile Payment
+TXN_1411,22-03-2025,Furniture,Furn_Small_Table,3200,6,19200,Credit Card
+TXN_1565,21-02-2025,Furniture,Furn_Shelf,1800,6,,Mobile Payment
+TXN_1427,28-07-2025,Patisserie,Pat_Cookie_Pack,55,4,330,Cash
+TXN_1167,09-08-2025,Electric Accessories,Elec_Batteries_4pk,90,3,,Mobile Payment
+TXN_1306,23-04-2025,Butchers,Meat_Chicken_1kg,220,2,440,Cash
+TXN_1079,15-08-2025,Butchers,Meat_Fish_1kg,380,5,1900,Mobile Payment
+TXN_1568,30-01-2025,Electric Accessories,Elec_Cable_USB,150,3,450,Credit Card
+TXN_1261,03-05-2025,Beverages,  Bev_Juice_500ml  ,45,1,45,Mobile Payment
+TXN_1040,31-01-2025,Computers,Comp_HDMI_Cable,300,,1200,Credit Card
+TXN_1158,17-05-2025,Beverages,Bev_Cola_1L,60,6,,Credit Card
+TXN_1437,29-03-2025,Electric Accessories,Elec_Powerbank,900,5,4500,Debit Card
+TXN_1553,23-05-2025,Electric Accessories,,90,5,450,Mobile Payment
+TXN_1078,23-02-2025,Beverages,Bev_Water_1L,20,3,60,Credit Card
+TXN_1541,23-06-2025,furniture,Furn_Small_Table,3200,4,12800,Debit Card
+TXN_1577,25-05-2025,Furniture,Furn_Cushion,350,1,350,Mobile Payment
+TXN_1453,27-05-2025,Food,Food_Rice_1kg,70,6,420,Credit Card
+TXN_1205,19-06-2025,Butchers,Meat_Bacon_250g,190,4,760,Credit Card
+TXN_1419,10-05-2025,Beverages,Bev_Tea_100g,90,4,360,Mobile Payment
+TXN_1212,11-07-2025,Patisserie,  Pat_Cake_Slice  ,90,2,180,Cash
+TXN_1256,24-03-2025,Patisserie,Pat_Croissant,,5,200,Cash
+TXN_1146,16-02-2025,Computers,Comp_Keyboard,800,,2400,Mobile Payment
+TXN_1259,09-05-2025,Food,Food_Wheat_1kg,55,4,220,Credit Card
+TXN_1108,04-02-2025,Food,Food_Pasta_500g,65,4,260,Mobile Payment
+TXN_1030,22-08-2025,Milk Products,Milk_Butter_500g,250,5,1250,Cash
+TXN_1020,28-04-2025,Electric Accessories,Elec_Cable_USB,150,,900,Credit Card
+TXN_1110,01-08-2025,Computers,Comp_USB_Drive_32GB,450,4,1800,Mobile Payment
+TXN_1134,28-01-2025,Milk Products,Milk_Cheese_200g,110,3,330,Cash
+TXN_1007,02-04-2025,Butchers,Meat_Bacon_250g,190,1,190,Debit Card
+TXN_1034,15-01-2025,Patisserie,Pat_Cookie_Pack,55,2,110,Credit Card
+TXN_1300,10-07-2025,Electric Accessories,Elec_Cable_USB,150,,450,Debit Card
+TXN_1476,27-07-2025,Computers,Comp_USB_Drive_32GB,450,4,1800,Cash
+TXN_1037,16-05-2025,Milk Products,Milk_Cheese_200g,110,3,330,Mobile Payment
+TXN_1241,07-05-2025,Beverages,,20,3,60,Cash
+TXN_1088,15-02-2025,Food,,65,3,195,Debit Card
+TXN_1279,16-02-2025,Patisserie,Pat_Donut,30,1,30,Debit Card
+TXN_1187,27-04-2025,Furniture,Furn_Chair,2500,1,,Cash
+TXN_1215,06-04-2025,Patisserie,Pat_Cake_Slice,,3,270,Mobile Payment
+TXN_1291,15-07-2025,Milk Products,Milk_Paneer_200g,80,2,,Debit Card
+TXN_1198,24-08-2025,Butchers,Meat_Bacon_250g,190,2,380,Credit Card
+TXN_1417,04-04-2025,butchers,Meat_Eggs_Dozen,75,4,300,Cash
+TXN_1162,29-08-2025,Beverages,,180,3,540,Mobile Payment
+TXN_1455,21-07-2025,Beverages,Bev_Water_1L,,4,80,Mobile Payment
+TXN_1006,15-07-2025,Food,,120,2,240,Debit Card
+TXN_1270,25-06-2025,Butchers,,75,2,150,Mobile Payment
+TXN_1415,02-06-2025,Patisserie,Pat_Cake_Slice,90,4,,Mobile Payment
+TXN_1566,16-03-2025,Electric Accessories,Elec_Cable_USB,150,3,450,Mobile Payment
+TXN_1326,02-06-2025,Furniture,Furn_Cushion,,2,700,Mobile Payment
+TXN_1533,22-05-2025,Butchers,,190,4,760,Mobile Payment
+TXN_1123,07-01-2025,Furniture,Furn_Cushion,350,5,1750,Mobile Payment
+TXN_1057,30-05-2025,Beverages,Bev_Coffee_200g,180,1,180,Mobile Payment
+TXN_1197,04-03-2025,Computers,Comp_Mouse,500,4,2000,Mobile Payment
+TXN_1597,22-06-2025,Furniture,Furn_Lamp,700,1,,Credit Card
+TXN_1122,12-02-2025,Electric Accessories,Elec_Cable_USB,150,6,900,Mobile Payment
+TXN_1027,15-08-2025,Food,Food_Pasta_500g,65,6,390,Debit Card
+TXN_1365,25-07-2025,Computers,Comp_HDMI_Cable,300,3,900,Cash
+TXN_1151,27-06-2025,Milk Products,Milk_Ghee_500ml,350,4,,Credit Card
+TXN_1200,18-03-2025,Patisserie,Pat_Cake_Slice,90,6,540,Mobile Payment
+TXN_1096,26-05-2025,milk products,Milk_Butter_500g,250,5,1250,Debit Card
+TXN_1260,20-07-2025,Beverages,Bev_Water_1L,20,6,120,Debit Card
+TXN_1310,29-04-2025,Computers,  Comp_USB_Drive_32GB  ,450,4,1800,Cash
+TXN_1478,06-01-2025,Patisserie,Pat_Cookie_Pack,55,,330,Mobile Payment
+TXN_1105,17-06-2025,Patisserie,Pat_Croissant,40,2,80,Cash
+TXN_1580,17-07-2025,Electric Accessories,Elec_Cable_USB,150,4,900,Credit Card
+TXN_1337,29-07-2025,Food,Food_Rice_1kg,70,2,140,Mobile Payment
+TXN_1013,05-04-2025,Butchers,Meat_Eggs_Dozen,75,,150,Debit Card
+TXN_1353,05-01-2025,Patisserie,Pat_Muffin,35,6,210,Debit Card
+TXN_1165,23-05-2025,Patisserie,Pat_Croissant,40,1,40,Mobile Payment
+TXN_1311,18-02-2025,Furniture,Furn_Small_Table,3200,6,19200,Debit Card
+TXN_1361,02-04-2025,Milk Products,Milk_Yogurt_400g,60,3,180,Cash
+TXN_1307,01-06-2025,Patisserie,Pat_Cookie_Pack,55,3,247.5,Cash
+TXN_1536,24-08-2025,Food,Food_Wheat_1kg,55,,275,Cash
+TXN_1127,12-07-2025,Butchers,Meat_Bacon_250g,190,,570,Mobile Payment
+TXN_1043,19-01-2025,Beverages,Bev_Water_1L,20,3,,Credit Card
+TXN_1330,27-07-2025,Patisserie,Pat_Croissant,40,3,120,Mobile Payment
+TXN_1141,09-02-2025,Electric Accessories,Elec_Powerbank,,6,5400,Mobile Payment
+TXN_1126,25-03-2025,Milk Products,Milk_Paneer_200g,80,4,320,Debit Card
+TXN_1376,12-04-2025,Computers,Comp_HDMI_Cable,300,3,900,Debit Card
+TXN_1161,23-04-2025,Computers,Comp_Mouse,,4,2000,Debit Card
+TXN_1440,30-06-2025,Patisserie,Pat_Cookie_Pack,55,3,165,Credit Card
+TXN_1389,19-01-2025,Electric Accessories,Elec_Charger,400,5,2000,Credit Card
+TXN_1413,24-01-2025,Computers,Comp_Keyboard,800,1,800,Mobile Payment
+TXN_1373,19-07-2025,Beverages,Bev_Tea_100g,90,2,270,Debit Card
+TXN_1301,11-05-2025,Milk Products,Milk_Cheese_200g,110,1,110,Cash
+TXN_1475,30-05-2025,Milk Products,,80,6,480,Mobile Payment
+TXN_1071,12-06-2025,Milk Products,Milk_Paneer_200g,80,6,480,Debit Card
+TXN_1051,24-04-2025,Patisserie,,40,1,40,Cash
+TXN_1044,19-05-2025,Computers,Comp_Keyboard,800,2,1600,Credit Card
+TXN_1505,10-03-2025,Milk Products,Milk_Yogurt_400g,60,1,60,Mobile Payment
+TXN_1226,18-07-2025,Computers,Comp_Keyboard,800,3,2400,Credit Card
+TXN_1351,15-05-2025,butchers,Meat_Eggs_Dozen,75,1,75,Cash
+TXN_1315,15-04-2025,Patisserie,Pat_Cake_Slice,90,4,360,Debit Card
+TXN_1210,08-08-2025,Butchers,Meat_Mutton_1kg,650,6,3900,Mobile Payment
+TXN_1522,13-01-2025,beverages,Bev_Tea_100g,90,6,540,Cash
+TXN_1383,06-08-2025,Patisserie,Pat_Cake_Slice,90,3,270,Credit Card
+TXN_1321,21-06-2025,Butchers,Meat_Mutton_1kg,650,2,1300,Cash
+TXN_1434,09-05-2025,Milk Products,Milk_Paneer_200g,80,4,320,Mobile Payment
+TXN_1369,25-04-2025,Electric Accessories,Elec_Batteries_4pk,90,3,270,Cash
+TXN_1179,07-05-2025,Computers,,450,5,2250,Mobile Payment
+TXN_1472,03-04-2025,Computers,Comp_HDMI_Cable,300,6,1800,Cash
+TXN_1560,06-03-2025,Beverages,Bev_Tea_100g,90,3,270,Credit Card
+TXN_1450,21-05-2025,food,Food_Cereal_500g,150,1,150,Credit Card
+TXN_1312,16-01-2025,Computers,,450,2,900,Mobile Payment
+TXN_1497,14-08-2025,Furniture,Furn_Chair,2500,5,12500,Credit Card
+TXN_1288,21-04-2025,Food,Food_Pasta_500g,65,3,,Cash
+TXN_1271,21-04-2025,Food,Food_Rice_1kg,70,1,70,Cash
+TXN_1035,07-07-2025,Food,Food_Rice_1kg,70,1,70,Mobile Payment
+TXN_1073,27-03-2025,Beverages,Bev_Water_1L,20,1,20,Credit Card
+TXN_1346,23-07-2025,Electric Accessories,,400,6,2400,Mobile Payment
+TXN_1328,04-04-2025,Beverages,Bev_Water_1L,20,4,80,Credit Card
+TXN_1068,27-08-2025,Furniture,Furn_Chair,2500,3,7500,Cash
+TXN_1385,02-03-2025,Milk Products,,60,2,120,Mobile Payment
+TXN_1396,17-05-2025,Patisserie,Pat_Cookie_Pack,55,5,275,Cash
+TXN_1195,31-01-2025,Food,Food_Pasta_500g,65,4,260,Credit Card
+TXN_1070,14-03-2025,Food,Food_Oats_1kg,120,3,360,Credit Card
+TXN_1153,01-04-2025,Furniture,Furn_Chair,2500,3,,Mobile Payment
+TXN_1188,17-07-2025,Butchers,Meat_Chicken_1kg,220,1,220,Mobile Payment
+TXN_1160,12-08-2025,Computers,Comp_Keyboard,800,1,800,Cash
+TXN_1410,10-08-2025,Electric Accessories,Elec_Charger,400,2,800,Credit Card
+TXN_1052,24-01-2025,Computers,Comp_Webcam,,1,1200,Credit Card
+TXN_1374,04-06-2025,Furniture,Furn_Small_Table,3200,1,3200,Credit Card
+TXN_1045,02-05-2025,Furniture,Furn_Small_Table,3200,5,16000,Credit Card
+TXN_1196,30-06-2025,patisserie,Pat_Cake_Slice,90,5,450,Debit Card
+TXN_1117,10-04-2025,Milk Products,Milk_Paneer_200g,80,4,320,Cash
+TXN_1036,02-02-2025,Computers,Comp_Webcam,1200,2,2400,Mobile Payment
+TXN_1433,18-04-2025,electric accessories,Elec_Batteries_4pk,90,3,270,Credit Card
+TXN_1431,11-06-2025,Milk Products,Milk_Cheese_200g,,5,550,Mobile Payment
+TXN_1355,12-01-2025,Butchers,Meat_Mutton_1kg,650,2,1300,Debit Card
+TXN_1216,25-05-2025,Computers,Comp_HDMI_Cable,,4,1200,Credit Card
+TXN_1061,30-05-2025,Electric Accessories,Elec_Charger,400,6,2400,Debit Card
+TXN_1098,17-06-2025,Furniture,Furn_Lamp,700,5,3500,Debit Card
+TXN_1487,04-07-2025,Electric Accessories,Elec_Powerbank,900,6,5400,Mobile Payment
+TXN_1581,27-01-2025,beverages,Bev_Juice_500ml,45,4,180,Debit Card
+TXN_1599,10-04-2025,Food,Food_Oats_1kg,120,5,600,Mobile Payment
+TXN_1004,26-02-2025,Computers,Comp_Webcam,1200,4,4800,Mobile Payment
+TXN_1227,12-06-2025,Butchers,Meat_Fish_1kg,380,2,760,Credit Card
+TXN_1348,03-07-2025,Furniture,Furn_Small_Table,3200,2,,Credit Card
+TXN_1265,17-03-2025,Furniture,Furn_Shelf,1800,5,9000,Mobile Payment
+TXN_1583,20-07-2025,Butchers,Meat_Mutton_1kg,650,4,2600,Credit Card
+TXN_1303,20-02-2025,Food,Food_Oats_1kg,120,3,360,Credit Card
+TXN_1466,02-03-2025,Butchers,Meat_Eggs_Dozen,75,6,450,Cash
+TXN_1039,16-06-2025,Electric Accessories,  Elec_Cable_USB  ,150,6,900,Debit Card
+TXN_1244,07-06-2025,Food,Food_Wheat_1kg,55,4,220,Mobile Payment
+TXN_1109,23-03-2025,Furniture,Furn_Chair,2500,5,12500,Mobile Payment
+TXN_1470,17-04-2025,Furniture,Furn_Shelf,1800,3,5400,Mobile Payment
+TXN_1048,17-06-2025,Beverages,,180,6,1080,Cash
+TXN_1360,06-03-2025,Computers,Comp_Webcam,1200,4,4800,Cash
+TXN_1046,25-01-2025,Electric Accessories,Elec_Charger,400,2,800,Cash
+TXN_1456,03-01-2025,Patisserie,Pat_Cake_Slice,90,1,90,Debit Card
+TXN_1512,02-04-2025,Computers,Comp_Webcam,1200,,7200,Debit Card
+TXN_1119,07-08-2025,Patisserie,Pat_Cookie_Pack,55,4,220,Mobile Payment
+TXN_1386,05-04-2025,Furniture,Furn_Chair,2500,5,12500,Mobile Payment
+TXN_1358,22-07-2025,Milk Products,Milk_Yogurt_400g,60,1,60,Credit Card
+TXN_1371,21-06-2025,Beverages,Bev_Coffee_200g,180,1,270,Mobile Payment
+TXN_1156,05-07-2025,Computers,Comp_Mouse,500,3,1500,Debit Card
+TXN_1480,17-01-2025,Butchers,Meat_Fish_1kg,380,6,2280,Cash
+TXN_1202,27-04-2025,Computers,Comp_Webcam,1200,4,4800,Debit Card
+TXN_1026,06-03-2025,Electric Accessories,Elec_Powerbank,900,5,4500,Cash
+TXN_1595,31-05-2025,Furniture,Furn_Cushion,350,4,2100,Cash
+TXN_1463,05-02-2025,Food,Food_Wheat_1kg,55,2,,Mobile Payment
+TXN_1340,03-08-2025,Butchers,Meat_Chicken_1kg,220,1,220,Debit Card
+TXN_1190,03-04-2025,Milk Products,Milk_Yogurt_400g,60,5,300,Mobile Payment
+TXN_1573,25-04-2025,Butchers,Meat_Bacon_250g,190,1,190,Mobile Payment
+TXN_1128,05-01-2025,Food,Food_Rice_1kg,70,4,280,Cash
+TXN_1184,01-05-2025,computers,Comp_Keyboard,800,1,800,Debit Card
+TXN_1515,25-05-2025,Electric Accessories,Elec_Charger,400,1,400,Credit Card
+TXN_1047,16-04-2025,Butchers,Meat_Fish_1kg,380,4,1520,Mobile Payment
+TXN_1140,28-01-2025,Electric Accessories,Elec_Charger,400,4,1600,Mobile Payment
+TXN_1448,13-06-2025,Computers,,300,2,600,Credit Card
+TXN_1447,31-05-2025,Furniture,Furn_Cushion,350,,2100,Credit Card
+TXN_1081,07-01-2025,Milk Products,Milk_Butter_500g,250,4,1000,Credit Card
+TXN_1154,31-01-2025,Patisserie,Pat_Muffin,35,2,,Credit Card
+TXN_1332,09-05-2025,Patisserie,Pat_Cake_Slice,90,4,360,Mobile Payment
+TXN_1572,06-03-2025,Patisserie,Pat_Cookie_Pack,55,2,110,Credit Card
+TXN_1067,19-03-2025,Computers,Comp_Webcam,1200,6,7200,Cash
+TXN_1047,16-04-2025,Butchers,Meat_Fish_1kg,380,4,1520,Mobile Payment
+TXN_1352,12-06-2025,Computers,Comp_Mouse,500,1,500,Mobile Payment
+TXN_1103,06-08-2025,Computers,Comp_Mouse,500,5,2500,Cash
+TXN_1147,13-03-2025,Patisserie,Pat_Muffin,35,3,105,Debit Card
+TXN_1000,09-07-2025,Food,Food_Pasta_500g,65,,65,Debit Card
+TXN_1233,11-08-2025,Patisserie,Pat_Cake_Slice,90,6,540,Debit Card
+TXN_1592,27-01-2025,Beverages,Bev_Tea_100g,90,5,675,Credit Card
+TXN_1080,10-08-2025,Food,Food_Oats_1kg,120,2,240,Credit Card
+TXN_1439,18-03-2025,Patisserie,Pat_Donut,30,5,150,Credit Card
+TXN_1063,21-06-2025,Electric Accessories,Elec_Cable_USB,150,2,300,Debit Card
+TXN_1008,28-04-2025,Beverages,Bev_Water_1L,20,6,120,Cash
+TXN_1235,04-04-2025,Electric Accessories,Elec_Cable_USB,150,5,750,Cash
+TXN_1428,30-05-2025,Food,Food_Pasta_500g,65,4,260,Debit Card
+TXN_1401,13-06-2025,Electric Accessories,Elec_Charger,400,5,2000,Cash
+TXN_1320,24-05-2025,Food,Food_Rice_1kg,70,3,210,Mobile Payment
+TXN_1050,19-04-2025,Electric Accessories,Elec_Batteries_4pk,90,2,,Credit Card
+TXN_1023,07-05-2025,Food,Food_Cereal_500g,150,5,750,Cash
+TXN_1024,10-06-2025,Food,Food_Pasta_500g,65,2,130,Credit Card
+TXN_1390,30-04-2025,Beverages,Bev_Tea_100g,,4,360,Debit Card
+TXN_1349,01-04-2025,Beverages,Bev_Cola_1L,60,5,300,Credit Card
+TXN_1457,14-03-2025,Food,Food_Wheat_1kg,55,3,165,Mobile Payment
+TXN_1175,15-06-2025,Computers,Comp_Webcam,1200,2,2400,Credit Card
+TXN_1403,27-04-2025,Electric Accessories,Elec_Cable_USB,150,3,450,Cash
+TXN_1248,01-02-2025,Patisserie,,30,2,60,Mobile Payment
+TXN_1436,07-04-2025,Computers,Comp_Mouse,500,5,2500,Debit Card
+TXN_1289,15-05-2025,Furniture,,700,4,2800,Debit Card
+TXN_1066,05-04-2025,Beverages,Bev_Tea_100g,,2,180,Debit Card
+TXN_1586,06-08-2025,Food,Food_Pasta_500g,65,1,65,Debit Card
+TXN_1280,31-03-2025,Patisserie,Pat_Cookie_Pack,,3,165,Cash
+TXN_1546,28-02-2025,Electric Accessories,Elec_Batteries_4pk,90,4,360,Debit Card
+TXN_1527,15-03-2025,Patisserie,Pat_Donut,30,5,150,Cash
+TXN_1525,18-06-2025,Furniture,,350,4,1400,Mobile Payment
+TXN_1165,23-05-2025,Patisserie,Pat_Croissant,40,1,40,Mobile Payment
+TXN_1137,03-06-2025,Patisserie,Pat_Cookie_Pack,55,6,330,Cash
+TXN_1530,21-01-2025,Patisserie,Pat_Donut,30,4,120,Debit Card
+TXN_1108,04-02-2025,Food,Food_Pasta_500g,65,4,260,Mobile Payment
+TXN_1422,20-02-2025,Butchers,Meat_Eggs_Dozen,75,2,150,Mobile Payment
+TXN_1219,07-03-2025,Patisserie,Pat_Muffin,35,4,140,Cash
+TXN_1495,19-03-2025,Butchers,Meat_Chicken_1kg,220,2,440,Credit Card
+TXN_1111,08-03-2025,Computers,Comp_Mouse,500,4,2000,Credit Card
+TXN_1203,09-04-2025,Patisserie,Pat_Croissant,40,5,200,Credit Card
+TXN_1542,05-07-2025,Food,Food_Cereal_500g,150,6,900,Cash
+TXN_1407,12-05-2025,Food,Food_Cereal_500g,150,3,,Cash
+TXN_1032,19-07-2025,Milk Products,Milk_Cheese_200g,110,5,550,Cash
+TXN_1569,24-06-2025,Computers,Comp_Webcam,1200,2,2400,Cash
+TXN_1366,04-06-2025,Food,Food_Rice_1kg,70,4,280,Credit Card
+TXN_1469,04-02-2025,Milk Products,Milk_Ghee_500ml,,2,700,Mobile Payment
+TXN_1521,16-01-2025,Computers,Comp_Webcam,1200,6,7200,Cash
+TXN_1002,24-01-2025,Beverages,Bev_Water_1L,20,,20,Credit Card
+TXN_1335,14-03-2025,Computers,Comp_HDMI_Cable,300,1,300,Cash
+TXN_1499,23-03-2025,butchers,Meat_Bacon_250g,190,5,950,Mobile Payment
+TXN_1465,19-03-2025,Patisserie,Pat_Donut,30,,90,Cash
+TXN_1377,07-01-2025,Patisserie,Pat_Croissant,40,1,40,Credit Card
+TXN_1284,02-06-2025,Butchers,Meat_Chicken_1kg,220,5,1100,Cash
+TXN_1412,30-04-2025,Computers,Comp_Keyboard,800,5,4000,Mobile Payment
+TXN_1095,20-06-2025,Milk Products,Milk_Yogurt_400g,60,4,240,Mobile Payment
+TXN_1077,02-02-2025,Food,Food_Oats_1kg,120,4,,Cash
+TXN_1462,12-05-2025,Electric Accessories,,150,4,600,Debit Card
+TXN_1384,11-05-2025,Milk Products,Milk_Butter_500g,,3,750,Credit Card
+TXN_1424,08-02-2025,Computers,Comp_HDMI_Cable,300,4,,Credit Card
+TXN_1275,28-05-2025,Butchers,Meat_Fish_1kg,,1,380,Credit Card
+TXN_1145,06-06-2025,Electric Accessories,Elec_Powerbank,900,5,,Mobile Payment
+TXN_1501,08-08-2025,Milk Products,Milk_Ghee_500ml,350,3,1050,Credit Card
+TXN_1402,14-06-2025,Computers,Comp_Webcam,1200,3,3600,Debit Card
+TXN_1567,07-04-2025,Patisserie,Pat_Croissant,40,3,120,Debit Card
+TXN_1329,12-07-2025,Furniture,Furn_Cushion,350,,1050,Mobile Payment
+TXN_1149,14-07-2025,Computers,Comp_Keyboard,800,5,4000,Credit Card
+TXN_1255,04-01-2025,Beverages,Bev_Juice_500ml,45,2,90,Debit Card
+TXN_1135,21-08-2025,furniture,Furn_Small_Table,3200,6,19200,Mobile Payment
+TXN_1129,16-06-2025,Butchers,Meat_Fish_1kg,380,2,760,Cash
+TXN_1283,10-02-2025,Electric Accessories,Elec_Powerbank,900,3,,Debit Card
+TXN_1587,04-03-2025,Milk Products,Milk_Cheese_200g,110,6,660,Credit Card
+TXN_1421,06-04-2025,Food,Food_Wheat_1kg,55,4,220,Debit Card
+TXN_1138,30-03-2025,Furniture,Furn_Small_Table,3200,1,3200,Mobile Payment
+TXN_1097,15-03-2025,Beverages,  Bev_Cola_1L  ,60,3,180,Credit Card
+TXN_1526,16-04-2025,Computers,,1200,5,6000,Cash
+TXN_1273,26-03-2025,furniture,Furn_Chair,2500,5,12500,Cash
+TXN_1296,01-07-2025,Furniture,Furn_Small_Table,3200,4,,Mobile Payment
+TXN_1591,02-01-2025,Electric Accessories,Elec_Earphones,350,,1400,Credit Card
+TXN_1331,23-06-2025,Milk Products,Milk_Yogurt_400g,60,3,180,Mobile Payment
+TXN_1585,18-01-2025,Electric Accessories,,90,3,270,Debit Card
+TXN_1287,11-03-2025,Electric Accessories,Elec_Batteries_4pk,90,4,360,Credit Card
+TXN_1545,12-06-2025,Butchers,Meat_Chicken_1kg,220,1,220,Debit Card
+TXN_1576,20-06-2025,Patisserie,Pat_Croissant,,6,240,Debit Card
+TXN_1060,29-05-2025,Furniture,Furn_Small_Table,3200,2,6400,Cash
+TXN_1552,03-02-2025,Patisserie,Pat_Donut,,1,30,Cash
+TXN_1211,10-01-2025,Computers,Comp_Keyboard,800,,4000,Cash
+TXN_1142,11-03-2025,Computers,Comp_HDMI_Cable,300,6,1800,Mobile Payment
+TXN_1169,24-02-2025,Milk Products,Milk_Paneer_200g,80,6,480,Debit Card
+TXN_1438,04-05-2025,Patisserie,Pat_Muffin,35,5,175,Credit Card
+TXN_1359,12-05-2025,Butchers,Meat_Chicken_1kg,220,3,660,Mobile Payment
+TXN_1214,12-01-2025,Patisserie,Pat_Cookie_Pack,55,1,55,Debit Card
+TXN_1242,10-04-2025,Computers,Comp_Webcam,1200,2,3600,Mobile Payment
+TXN_1120,18-08-2025,Computers,Comp_Webcam,1200,5,6000,Credit Card
+TXN_1449,03-07-2025,Electric Accessories,,400,3,1200,Mobile Payment
+TXN_1089,30-03-2025,Furniture,  Furn_Shelf  ,1800,4,7200,Debit Card
+TXN_1356,29-04-2025,Milk Products,Milk_Butter_500g,250,6,1500,Mobile Payment
+TXN_1269,20-04-2025,Food,Food_Wheat_1kg,55,3,165,Debit Card
+TXN_1460,07-03-2025,Electric Accessories,,900,6,5400,Credit Card
+TXN_1590,08-01-2025,Electric Accessories,  Elec_Earphones  ,350,4,1400,Credit Card
+TXN_1304,17-07-2025,Beverages,Bev_Tea_100g,90,2,180,Mobile Payment
+TXN_1253,12-03-2025,Furniture,Furn_Shelf,1800,1,1800,Credit Card
+TXN_1104,03-07-2025,Furniture,Furn_Small_Table,3200,2,6400,Mobile Payment
+TXN_1435,05-02-2025,Beverages,Bev_Coffee_200g,180,6,1080,Credit Card
+TXN_1223,08-04-2025,Food,Food_Wheat_1kg,55,2,110,Debit Card
+TXN_1559,18-04-2025,Electric Accessories,Elec_Earphones,350,3,1050,Debit Card
+TXN_1451,16-06-2025,Computers,Comp_Mouse,500,4,2000,Credit Card
+TXN_1042,01-07-2025,Beverages,Bev_Cola_1L,60,,60,Cash
+TXN_1555,04-01-2025,butchers,Meat_Chicken_1kg,220,4,880,Debit Card
+TXN_1375,24-04-2025,Butchers,Meat_Eggs_Dozen,75,3,225,Cash
+TXN_1556,19-08-2025,Food,Food_Rice_1kg,70,6,420,Credit Card
+TXN_1274,14-01-2025,Electric Accessories,Elec_Earphones,350,6,2100,Debit Card
+TXN_1116,19-05-2025,electric accessories,Elec_Charger,400,3,1200,Mobile Payment
+TXN_1115,09-02-2025,Butchers,,190,6,1140,Credit Card
+TXN_1523,01-07-2025,Milk Products,,350,1,350,Credit Card
+TXN_1562,02-01-2025,Food,Food_Cereal_500g,150,3,,Mobile Payment
+TXN_1507,21-06-2025,Furniture,Furn_Lamp,700,6,4200,Credit Card
+TXN_1579,11-07-2025,Milk Products,  Milk_Ghee_500ml  ,350,5,1750,Credit Card
+TXN_1468,31-01-2025,Patisserie,Pat_Cookie_Pack,55,6,495,Debit Card
+TXN_1172,30-06-2025,Milk Products,Milk_Ghee_500ml,350,3,1050,Debit Card
+TXN_1295,09-08-2025,Electric Accessories,Elec_Powerbank,900,1,900,Debit Card
+TXN_1550,10-04-2025,Food,Food_Oats_1kg,120,6,1080,Debit Card
+TXN_1230,25-03-2025,Food,Food_Rice_1kg,,3,210,Mobile Payment
+TXN_1281,18-06-2025,Food,,120,5,600,Mobile Payment
+TXN_1033,29-01-2025,Computers,Comp_Keyboard,800,1,800,Debit Card
+TXN_1299,22-04-2025,Food,Food_Wheat_1kg,55,2,110,Mobile Payment
+TXN_1225,19-07-2025,Furniture,Furn_Small_Table,3200,6,19200,Cash
+TXN_1031,10-05-2025,Patisserie,Pat_Cookie_Pack,,6,330,Credit Card
+TXN_1578,28-01-2025,Butchers,,650,4,2600,Cash
+TXN_1084,29-07-2025,Milk Products,Milk_Ghee_500ml,350,2,1050,Mobile Payment
+TXN_1171,26-06-2025,Electric Accessories,Elec_Charger,400,4,,Mobile Payment
+TXN_1500,17-02-2025,Patisserie,Pat_Cookie_Pack,55,,220,Mobile Payment
+TXN_1454,17-04-2025,Beverages,Bev_Water_1L,20,2,40,Credit Card
+TXN_1425,11-02-2025,Furniture,Furn_Cushion,350,3,1050,Mobile Payment
+TXN_1503,04-03-2025,Food,Food_Cereal_500g,150,,600,Debit Card
+TXN_1418,19-02-2025,Furniture,Furn_Small_Table,3200,5,16000,Debit Card
+TXN_1506,12-08-2025,Furniture,Furn_Shelf,,1,1800,Cash
+TXN_1517,28-02-2025,Milk Products,Milk_Yogurt_400g,60,3,180,Mobile Payment
+TXN_1575,18-08-2025,Butchers,,75,6,450,Cash
+TXN_1393,19-03-2025,Computers,Comp_HDMI_Cable,,2,600,Credit Card
+TXN_1199,29-03-2025,Patisserie,Pat_Donut,30,4,120,Debit Card
+TXN_1139,15-06-2025,Beverages,,90,5,450,Debit Card
+TXN_1496,16-04-2025,Computers,Comp_HDMI_Cable,300,2,,Debit Card
+TXN_1009,22-05-2025,Butchers,Meat_Bacon_250g,190,1,190,Debit Card
+TXN_1367,21-01-2025,Butchers,Meat_Chicken_1kg,220,1,220,Debit Card
+TXN_1054,01-01-2025,Milk Products,Milk_Cheese_200g,110,,440,Mobile Payment
+TXN_1461,26-05-2025,Butchers,Meat_Mutton_1kg,,3,1950,Credit Card
+TXN_1322,03-04-2025,Electric Accessories,Elec_Earphones,350,5,2625,Cash
+TXN_1191,10-03-2025,Beverages,Bev_Coffee_200g,180,2,360,Credit Card
